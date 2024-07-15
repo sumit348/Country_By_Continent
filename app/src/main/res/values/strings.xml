@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Continent Country Info</string>
+    <string name="select_continent">Select a Continent</string>
+    <string name="get_info">Get Info</string>
+    <string name="show_countries">Show Countries</string>
+    <string name="country_info">Country Information</string>
+    <string name="area">Area:</string>
+    <string name="currency">Currency:</string>
+    <string name="capital">Capital:</string>
+    <string name="population">Population:</string>
+</resources>
